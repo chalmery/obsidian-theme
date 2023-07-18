@@ -1,3 +1,20 @@
 :root {
-    --b3-theme-primary: #d23f31;
+    --b3-theme-primary: #9377EE;
+}
+
+.b3-list--background .b3-list-item:hover:not(.b3-list-item--focus),
+ .b3-list--background .b3-list-item--focus:not(.dragover):not(.dragover__top):not(.dragover__bottom)  {
+    background-color: #9377EE;
+    color: #fff;
+}
+
+
+.b3-list--background .b3-list-item:hover:not(.b3-list-item--focus) .b3-list-item__text,
+ .b3-list--background .b3-list-item--focus:not(.dragover):not(.dragover__top):not(.dragover__bottom) .b3-list-item__text {
+    color: #fff;
+}
+
+.config__panel>.b3-tab-bar{
+    
+    border-right: 1px solid var(--b3-border-color);
 }

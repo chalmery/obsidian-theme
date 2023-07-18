@@ -1,16 +1,16 @@
 {
-  "name": "theme-sample",
-  "author": "Vanessa",
-  "url": "https://github.com/siyuan-note/theme-sample",
-  "version": "0.0.3",
+  "name": "obsidian-theme",
+  "author": "chalmery",
+  "url": "https://github.com/chalmery/obsidian-theme",
+  "version": "0.0.1",
   "minAppVersion": "2.8.8",
   "displayName": {
-    "default": "Theme Sample",
-    "zh_CN": "主题示例"
+    "default": "obsidian-theme",
+    "zh_CN": "黑曜石主题"
   },
   "description": {
-    "default": "This is a theme sample",
-    "zh_CN": "这是一个主题示例"
+    "default": "obsidian-theme",
+    "zh_CN": "黑曜石主题"
   },
   "readme": {
     "default": "README.md",
